@@ -3,7 +3,7 @@ On the process of learning Deeplearning, i built Basic Neural Network to get ful
 
 ## Overview
 A neural network written in Python, consisting of a single neuron that uses back propagation to learn.
-
+You can have quick review with [juputer notebook file](https://github.com/avvineed/Basic-Neural-Network/blob/master/basic-neural-network.ipynb).
 ## Dependencies
 
 None! Just numpy.
